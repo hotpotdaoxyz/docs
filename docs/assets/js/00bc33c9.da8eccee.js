@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhotpot_docs=self.webpackChunkhotpot_docs||[]).push([[781],{8179:o=>{o.exports=JSON.parse('{"title":"Overview","description":"Welcome to the Hotpot Docs","slug":"/category/overview","permalink":"/docs/docs/category/overview","navigation":{"next":{"title":"About Hotpot","permalink":"/docs/docs/overview/about-hotpot"}}}')}}]);
